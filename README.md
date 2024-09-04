@@ -1,4 +1,4 @@
-# [Roberto] <img src="https://as2.ftcdn.net/v2/jpg/05/66/42/01/1000_F_566420176_qoZg9rNVJxz5khpDMyk6k8gy5Lc5DrHM.jpg" width="30px">
+# [-Roberto-] <img src="https://as2.ftcdn.net/v2/jpg/05/66/42/01/1000_F_566420176_qoZg9rNVJxz5khpDMyk6k8gy5Lc5DrHM.jpg" width="30px">
 
 Eu sou <strong>Roberto Pinto</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
 
