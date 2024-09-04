@@ -1,10 +1,10 @@
-# [Seu nome] https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.freepik.com%2Ffotos%2Fmestre-magos&psig=AOvVaw0j6AZJ91IsV0guLGhgHsX8&ust=1725537035320000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNjM_8ecqYgDFQAAAAAdAAAAABAE
+# [Roberto] <img src="https://as2.ftcdn.net/v2/jpg/05/66/42/01/1000_F_566420176_qoZg9rNVJxz5khpDMyk6k8gy5Lc5DrHM.jpg" width="30px">
 
-Eu sou <strong>Seu Nome</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
+Eu sou <strong>Roberto Pinto</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
 
-- 🚀 Atualmente estou aprendendo: <strong>Coloque as linguagens que você atualmente está aprendendo</strong> 
-- 💬 Pergunte-me sobre: <strong>Seus hobbies</strong>
-- 📣 Nós podemos falar em: <strong>Seus Idiomas</strong>
+- 🚀 Atualmente estou aprendendo: <strong>iniciando na programação ainda</strong> 
+- 💬 Pergunte-me sobre: <strong>Jogos</strong>
+- 📣 Nós podemos falar em: <strong>Portugues</strong>
 
 <div align="center">
 
